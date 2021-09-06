@@ -1,0 +1,40 @@
+[2020-11-25 10:19:19]:
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+[2020-11-25 10:20:54]:
+Statement is not prepared. Call prepare() first.
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+    at PreparedStatement.acquire (e:\ITEXLinkEdge\node_modules\mssql\lib\base\prepared-statement.js:52:30)
+    at Immediate.<anonymous> (e:\ITEXLinkEdge\node_modules\mssql\lib\tedious\request.js:737:19)
+    at processImmediate (internal/timers.js:456:21)
+    at process.callbackTrampoline (internal/async_hooks.js:120:14)
+[2020-11-25 10:28:54]:
+Statement is not prepared. Call prepare() first.
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+    at PreparedStatement.acquire (E:\ITEXLinkEdge\node_modules\mssql\lib\base\prepared-statement.js:52:30)
+    at Immediate.<anonymous> (E:\ITEXLinkEdge\node_modules\mssql\lib\tedious\request.js:737:19)
+    at processImmediate (internal/timers.js:456:21)
+[2020-11-25 10:28:54]:
+Statement is not prepared. Call prepare() first.
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+    at PreparedStatement.acquire (E:\ITEXLinkEdge\node_modules\mssql\lib\base\prepared-statement.js:52:30)
+    at Immediate.<anonymous> (E:\ITEXLinkEdge\node_modules\mssql\lib\tedious\request.js:737:19)
+    at processImmediate (internal/timers.js:456:21)
+[2020-11-25 10:28:54]:
+Statement is not prepared. Call prepare() first.
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+    at PreparedStatement.acquire (E:\ITEXLinkEdge\node_modules\mssql\lib\base\prepared-statement.js:52:30)
+    at Immediate.<anonymous> (E:\ITEXLinkEdge\node_modules\mssql\lib\tedious\request.js:737:19)
+    at processImmediate (internal/timers.js:456:21)
+[2020-11-25 10:28:54]:
+Statement is not prepared. Call prepare() first.
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+    at PreparedStatement.acquire (E:\ITEXLinkEdge\node_modules\mssql\lib\base\prepared-statement.js:52:30)
+    at Immediate.<anonymous> (E:\ITEXLinkEdge\node_modules\mssql\lib\tedious\request.js:737:19)
+    at processImmediate (internal/timers.js:456:21)
+[2020-11-25 11:45:22]:
+Statement is not prepared. Call prepare() first.
+PreparedStatementError: Statement is not prepared. Call prepare() first.
+    at PreparedStatement.acquire (e:\ITEXLinkEdge\node_modules\mssql\lib\base\prepared-statement.js:52:30)
+    at Immediate.<anonymous> (e:\ITEXLinkEdge\node_modules\mssql\lib\tedious\request.js:737:19)
+    at processImmediate (internal/timers.js:456:21)
+    at process.callbackTrampoline (internal/async_hooks.js:120:14)
